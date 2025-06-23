@@ -1,52 +1,12 @@
 # weekenddadz.com - Created by  - Justin Sewell - Aka - JackyBosqov - Jsewell@weekenddadz.com
+
 <div align="center">
 
-<!-- Animated SVG Logo -->
-<svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-      .title {
-        font-family: 'Bebas Neue', cursive;
-        font-size: 80px;
-        font-weight: bold;
-        fill: #1a202c;
-        animation: fadeIn 2s ease-in-out, popIn 1s 1s ease-out forwards;
-        opacity: 0;
-      }
-      .subtitle {
-        font-family: sans-serif;
-        font-size: 20px;
-        fill: #718096;
-        animation: fadeIn 2s 1s ease-in-out forwards;
-        opacity: 0;
-      }
-      .sparkle {
-        animation: sparkle 2s ease-in-out infinite;
-        fill: #f6ad55;
-      }
-      @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-      }
-      @keyframes popIn {
-        0% { transform: scale(0.8); }
-        70% { transform: scale(1.05); }
-        100% { transform: scale(1); }
-      }
-      @keyframes sparkle {
-        0%, 100% { opacity: 0.5; transform: scale(0.8); }
-        50% { opacity: 1; transform: scale(1.2); }
-      }
-    </style>
-  </defs>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title">WEEKEND DADS™</text>
-  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" class="subtitle">Making the weekends count.</text>
-  <!-- Sparkles -->
-  <path class="sparkle" d="M300 20 l5 5 -5 5 -5 -5z" style="animation-delay: 0.2s;"/>
-  <path class="sparkle" d="M700 80 l10 10 -10 10 -10 -10z" style="animation-delay: 0.5s;"/>
-  <path class="sparkle" d="M1000 40 l3 3 -3 3 -3 -3z" style="animation-delay: 0.8s;"/>
-</svg>
+<!-- GitHub-Compatible Logo -->
+<img src="https://placehold.co/800x250/1a202c/ffffff/png?text=WEEKEND+DADS%E2%84%A2&font=bebas-neue" alt="Weekend Dads Logo">
+<h1>Making the weekends count.</h1>
+
+<br>
 
 ### **It started with an inside joke. It became a mission.**
 
@@ -112,7 +72,7 @@ Ready to dive in? Follow these simple steps to get the app running on your local
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/weekend-dads.git](https://github.com/your-username/weekend-dads.git)
+    git clone [https://github.com/sourcesiri-kamelot/weekenddadz.com.git](https://github.com/your-username/weekend-dads.git)
     cd weekend-dads
     ```
 
@@ -147,3 +107,4 @@ That's it. That's the mission. This brand is for every dad who's ever turned a c
 © 2024 Weekend Dads. All Rights Reserved.
 
 </div>
+
