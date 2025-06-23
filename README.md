@@ -3,14 +3,14 @@
 <div align="center">
 
 <!-- GitHub-Compatible Logo -->
-<img src="https://placehold.co/800x250/1a202c/ffffff/png?text=WEEKEND+DADS%E2%84%A2&font=bebas-neue" alt="Weekend Dads Logo">
-<h1>Making the weekends count.</h1>
+<img src="https://placehold.co/800x250/1a202c/ffffff/png?text=WEEKEND+DADZ%E2%84%A2&font=bebas-neue" alt="Weekend Dadz Logo">
+<h1>Making the weekendz count.</h1>
 
 <br>
 
 ### **It started with an inside joke. It became a mission.**
 
-_This isn't just another merch store. It's a tribute to every dad who hears the 6 AM alarm on a Saturday and sees it as a starting gun, not a snooze button. It's for the dads who work all week and live for those 48 hours of pure, chaotic, beautiful family time. We're reclaiming the term "Weekend Dad" and turning it into a badge of honor._
+_This isn't just another merch store. It's a tribute to every dad who hears the 6 AM alarm on a Saturday and sees it as a starting gun, not a snooze button. It's for the dadz who work all week and live for those 48 hours of pure, chaotic, beautiful family time. We're reclaiming the term "Weekend Dad" and turning it into a badge of honor._
 
 </div>
 
@@ -25,11 +25,11 @@ _This isn't just another merch store. It's a tribute to every dad who hears the 
 
 </div>
 
-## 🚀 The Weekend Dads AI-Powered Merch Experience
+## 🚀 The Weekend Dadz AI-Powered Merch Experience
 
-This repository contains the source code for the official **Weekend Dads** e-commerce PWA, built with React and powered by the Gemini & Imagen APIs. It's designed to be more than a store—it's a creative partner for dads everywhere.
+This repository contains the source code for the official **Weekend Dadz** e-commerce PWA, built with React and powered by the Gemini & Imagen APIs. It's designed to be more than a store—it's a creative partner for dadz everywhere.
 
-### Core Features ✨
+### Core Featurez ✨
 
 * **🤖 AI Weekend Planner & Core Memory Merch™:** Don't know what to do this weekend? Tell our AI about your crew, vibe, and the weather. It will generate:
     * A full weekend itinerary.
@@ -46,10 +46,10 @@ This repository contains the source code for the official **Weekend Dads** e-com
 
 We built our collections around the heroes of the weekend. Which one are you?
 
-* **Weekend Warriors:** 🛠️ The DIY champs, the flat-pack conquerors, the masters of the honey-do list.
-* **Adventure Awaits:** 🏕️ The planners of epic hikes, spontaneous road trips, and conquerors of the local playground.
+* **Weekend Warriorz:** 🛠️ The DIY champs, the flat-pack conquerors, the masters of the honey-do list.
+* **Adventure Awaitz:** 🏕️ The planners of epic hikes, spontaneous road trips, and conquerors of the local playground.
 * **Master of the Grill:** 🍔 The wielders of tongs, the commanders of charcoal, the providers of perfectly-cooked burgers.
-* **Storytime & Snuggles:** 📚 The builders of pillow forts, the readers of "just one more," the professional monster-checkers.
+* **Storytime & Snugglez:** 📚 The builders of pillow forts, the readers of "just one more," the professional monster-checkers.
 * **Co-Pilot:** 👨‍✈️ The masters of the minivan cockpit, the navigators of naptime, the partners in conquering chaos.
 
 ---
@@ -72,8 +72,8 @@ Ready to dive in? Follow these simple steps to get the app running on your local
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sourcesiri-kamelot/weekenddadz.com.git](https://github.com/your-username/weekend-dads.git)
-    cd weekend-dads
+    git clone [https://github.com/Sourcesiri-kamelot/weekenddadz.com.git](https://github.com/Sourcesiri-kamelot/weekenddadz.com.git)
+    cd weekenddadz.com
     ```
 
 2.  **Install dependencies:**
@@ -95,7 +95,7 @@ Got an idea for a new dad persona? A feature that would make the weekend even mo
 
 ## 📜 Our Philosophy
 
-**Make. The. Weekends. Count.**
+**Make. The. Weekendz. Count.**
 
 That's it. That's the mission. This brand is for every dad who's ever turned a cardboard box into a castle, a routine trip to the grocery store into an adventure, or a simple Saturday into a core memory.
 
@@ -104,7 +104,9 @@ That's it. That's the mission. This brand is for every dad who's ever turned a c
 <div align="center">
 
 ---
-© 2024 Weekend Dads. All Rights Reserved.
+© 2024 Weekend Dadz. All Rightz Reserved.
+<br>
+powered by <a href="https://helo-im.ai">helo im ai inc.</a>
 
 </div>
 
